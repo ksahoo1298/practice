@@ -1,0 +1,7 @@
+public class Car{
+
+string name;
+int id;
+String type;
+
+}
