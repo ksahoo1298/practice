@@ -1,5 +1,9 @@
 public class Bus{
 String name ="Volvo";
 float price= 14444.99;
+
 int x=10;
+}
+
+String number="OD051298";
 }
